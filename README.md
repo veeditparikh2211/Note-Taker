@@ -14,8 +14,8 @@ Express js
 
 ## Application
 
-![](images/Screenshot_1.PNG)
-![](images/Deletefunctionality.PNG)
+![](public/assets/images/Screenshot_1.PNG)
+![](public/assets/images/Deletefunctionality.PNG)
 
 
 ## Contribution
